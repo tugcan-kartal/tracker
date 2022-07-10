@@ -1,0 +1,10 @@
+.headerForNavbar{
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 4vh;
+    font-family: 'Titan One', cursive;
+    margin-top: 1%
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Titan+One&display=swap');
+

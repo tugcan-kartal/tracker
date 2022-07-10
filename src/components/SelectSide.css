@@ -1,0 +1,62 @@
+
+
+.partofselectlist{
+    background-color: #FFFFFF;
+    padding: 15%;
+    border-radius: 15%;
+    width: 22vw;
+}
+
+.allbuttonpart{
+    display: flex;
+}
+
+.firstbutton{
+    background-color: #D3DEDC;
+    width: 12vw;
+    height: 7vh;
+    border-radius: 10%;
+    margin-right: 5%;
+    border: none;
+}
+
+.firstbutton:hover{
+    background-color: #7EC7AE;
+}
+
+.secondbutton{
+    background-color: #D3DEDC;
+    width: 12vw;
+    height: 7vh;
+    border-radius: 10%;
+    border: none;
+}
+
+.secondbutton:hover{
+    background-color: #7EC7AE;
+}
+
+.onlyselectpart{
+    display: block;
+    border: none;
+    border-bottom: 1px solid gray;
+    outline: none;
+    margin-left: 15%;
+    width: 15vw;
+    height: 7vh;
+}
+
+.visualize{
+    border-radius: 15%;
+    display: block;
+    background-color: #D3DEDC;
+    margin-left: 15%;
+    margin-top: 10%;
+    width: 15vw;
+    height: 4vh;
+    border: none;
+}
+
+.visualize:hover{
+    background-color: #7EC7AE;
+}
